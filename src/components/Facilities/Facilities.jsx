@@ -15,19 +15,21 @@ const Facilities = () => {
           </p>
         </div>
         <div className="facilities-col">
-          <img src="/images/basketball.png" alt="" />
-          <h3>Largest Play Ground</h3>
+          <img src="/infinimove/classroom.JPG" alt="" />
+          <h3>Beautiful Class Rooms</h3>
           <p>
             Unleash your energy on our expansive playground. A haven for sports
             enthusiasts and active minds.
           </p>
         </div>
         <div className="facilities-col">
-          <img src="/images/cafeteria.png" alt="" />
-          <h3>Tasty and Healthy Food</h3>
+          <img src="/infinimove/lab.JPG" alt="" />
+          <h3>KES Labs</h3>
           <p>
-            Indulge your taste buds with our delightful and nutritious cuisine.
-            Fuel for both body and mind.
+            
+            Our college lab is a collaborative, 
+            innovation-driven space equipped with advanced technology, 
+            empowering students to explore, experiment, and create solutions for real-world challenges.
           </p>
         </div>
       </div>
